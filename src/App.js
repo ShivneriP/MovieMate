@@ -1,7 +1,7 @@
 import { AllRoutes } from './routes/AllRoutes';
 import { Header, Footer } from './Component';
 import './App.css';
-import { Prent } from './Prent';
+ 
 
 function App() {
   return (

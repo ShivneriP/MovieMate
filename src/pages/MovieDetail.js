@@ -1,5 +1,5 @@
  import React, { useEffect, useState } from 'react'
- import {useFetch} from '../hooks/useFetch';
+ //import {useFetch} from '../hooks/useFetch';
  import { useParams } from 'react-router-dom';
   import Backup from '../assets/backup.png';
  
@@ -17,7 +17,7 @@
       console.log(json)
     }
     fetchMovie();
-   },[]);
+   },[params.id]);
 
    
 
