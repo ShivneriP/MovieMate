@@ -1,0 +1,16 @@
+API Key:605df98f85722795ddd33c0c5553c7ca
+
+Base URL:https://api.themoviedb.org/3/
+
+Search:https://api.themoviedb.org/3/search/company?api_key=605df98f85722795ddd33c0c5553c7ca&query=avatar&page=1
+
+Popular:https://api.themoviedb.org/3/movie/popular?api_key=605df98f85722795ddd33c0c5553c7ca&language=en-US&page=1
+
+Top-Rated:https://api.themoviedb.org/3/movie/top_rated?api_key=605df98f85722795ddd33c0c5553c7ca&language=en-US&page=1
+
+Now-Playing:https://api.themoviedb.org/3/movie/now_playing?api_key=605df98f85722795ddd33c0c5553c7ca&language=en-US&page=1
+
+Upcoming:https://api.themoviedb.org/3/movie/upcoming?api_key=605df98f85722795ddd33c0c5553c7ca&language=en-US&page=1
+
+
+individual Movie:https://api.themoviedb.org/3/movie/{movie_id}?api_key=605df98f85722795ddd33c0c5553c7ca 
